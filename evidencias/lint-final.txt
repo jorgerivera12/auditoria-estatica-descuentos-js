@@ -1,0 +1,4 @@
+
+> auditoria-estatica-descuentos-js@1.0.0 lint
+> eslint src/
+
