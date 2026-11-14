@@ -62,5 +62,5 @@ Encontré 13 hallazgos: 5 de ESLint y 8 de la revisión humana. Corregí los 5 d
 
 Esta acta es el registro equivalente de la revisión por pares. Al hacerla una sola persona, tiene la limitación de que el revisor no es independiente del autor. Para la siguiente iteración la revisión debería hacerla otra persona.
 
-- Pull request: https://github.com/jorgerivera12/auditoria-estatica-descuentos-js/pull/1
+- Pull request: https://github.com/jorgerivera12/auditoria-estatica-descuentos-js/pull/2
 - Firma: Jorge Rivera
