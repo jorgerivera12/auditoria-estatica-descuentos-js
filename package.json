@@ -1,0 +1,6 @@
+{
+  "name": "auditoria-estatica-descuentos-js",
+  "version": "1.0.0",
+  "description": "Auditoría estática del módulo de descuentos de una tienda digital",
+  "main": "src/descuentos.js"
+}
