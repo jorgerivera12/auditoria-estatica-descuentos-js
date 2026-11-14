@@ -1,0 +1,15 @@
+
+> auditoria-estatica-descuentos-js@1.0.0 lint
+> eslint src/
+
+
+/home/jorge/Escritorio/VERIFICACION_VALIDACION_SOFTWARE/U1/auditoria-descuentos-vvs/auditoria-estatica-descuentos-js/src/descuentos.js
+  2:3   error  Unexpected var, use let or const instead  no-var
+  3:13  error  Expected '===' and instead saw '=='       eqeqeq
+  3:22  error  Expected { after 'if' condition           curly
+  4:25  error  Expected { after 'if' condition           curly
+  5:3   error  Unexpected var, use let or const instead  no-var
+
+✖ 5 problems (5 errors, 0 warnings)
+  4 errors and 0 warnings potentially fixable with the `--fix` option.
+
